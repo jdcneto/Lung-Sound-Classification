@@ -1,5 +1,5 @@
 ## Classifying Respiratory Diseases with Deep Learning
-Classifying Respiratory diseases with Deep Learning using respiratory sound data.
+Classifying Respiratory diseases with Pre trained audion Neuro Network using Attention on respiratory sound data.
 
 ## Objective
 
