@@ -22,10 +22,13 @@ There are a total of 5.5 hours of recordings containing 6898 respiratory cycles 
 The data includes both clean respiratory sounds as well as noisy recordings that simulate real life conditions. The patients span all age groups - children, adults and the elderly.
 
 
-## Results  
+### Results 
+
 <img src="images/ablation.PNG" width="50%"/>  
 ### Ablation Studies
 <img src="images/table_results.PNG" width="50%"/>  
-## Best Model   
+
+### Best Model   
+
 The pre trained model you can download from [here](https://drive.google.com/file/d/1PDR9WpBqZivaL0h2YIhNljP2WXoYGz7U/view?usp=sharing)
 
