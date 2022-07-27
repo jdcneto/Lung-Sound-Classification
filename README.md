@@ -23,6 +23,7 @@ The data includes both clean respiratory sounds as well as noisy recordings that
 
 
 ## Results  
-<img src="images/ablation.png" width="50%"/>   
-<img src="images/table_results.png" width="50%"/>
+<img src="images/ablation.png" width="300"/>     
+<img src="images/table_results.png" width="300"/>
+
 
