@@ -1,4 +1,4 @@
-## Classifying Respiratory Diseases with Deep Learning
+# Classifying Respiratory Diseases with Deep Learning
 Classifying Respiratory diseases with Pre trained audion Neuro Network using Attention on respiratory sound data.
 
 ## Objective
@@ -22,13 +22,7 @@ There are a total of 5.5 hours of recordings containing 6898 respiratory cycles 
 The data includes both clean respiratory sounds as well as noisy recordings that simulate real life conditions. The patients span all age groups - children, adults and the elderly.
 
 
-This Kaggle dataset includes:
+## Results  
+<img src="images/ablation.png" width="50%"/>   
+<img src="images/table_results.png" width="50%"/>
 
-920 .wav sound files
-920 annotation .txt files
-A text file listing the diagnosis for each patient
-A text file explaining the file naming format
-A text file listing 91 names (filename_differences.txt )
-A text file containing demographic information for each patient
-Note:
-filename_differences.txt is a list of files whose names were corrected after this dataset's creators found a bug in the original file naming script. It can now be ignored.
