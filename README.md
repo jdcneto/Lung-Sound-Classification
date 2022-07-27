@@ -1,5 +1,5 @@
 # Classifying Respiratory Diseases with Deep Learning
-Classifying Respiratory diseases with Pre trained audion Neuro Network using Attention on respiratory sound data.
+Classifying Respiratory diseases with Pre trained Neuro Network using Attention and Vision Transformer on respiratory sound data.
 
 ## Objective
 
@@ -23,7 +23,6 @@ The data includes both clean respiratory sounds as well as noisy recordings that
 
 
 ## Results  
-<img src="images/ablation.png" width="300"/>     
-<img src="images/table_results.png" width="300"/>
-
+<img src="images/ablation.png" width="300"  height="500"/>     
+<img src="images/table_results.png" width="300"  height="500"/>
 
