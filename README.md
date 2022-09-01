@@ -30,5 +30,5 @@ The data includes both clean respiratory sounds as well as noisy recordings that
 
 ### Pre-trained Model   
 
-The pre-trained model you can downloaded it [here](https://drive.google.com/file/d/1PDR9WpBqZivaL0h2YIhNljP2WXoYGz7U/view?usp=sharing)
+The pre-trained model can be downloaded it [here](https://drive.google.com/file/d/1PDR9WpBqZivaL0h2YIhNljP2WXoYGz7U/view?usp=sharing)
 
