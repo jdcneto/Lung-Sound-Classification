@@ -27,8 +27,3 @@ The data includes both clean respiratory sounds as well as noisy recordings that
 <img src="images/ablation.PNG" width="50%"/>  
 ### Ablation Studies
 <img src="images/table_results.PNG" width="50%"/>  
-
-### Pre-trained Model   
-
-The pre-trained model can be downloaded it [here](https://drive.google.com/file/d/1PDR9WpBqZivaL0h2YIhNljP2WXoYGz7U/view?usp=sharing)
-
