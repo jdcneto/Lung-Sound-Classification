@@ -24,6 +24,22 @@ The data includes both clean respiratory sounds as well as noisy recordings that
 
 ### Results 
 
-<img src="images/ablation.PNG" width="50%"/>  
+<img src="images/ablation.PNG" width="50%"/> 
+
 ### Ablation Studies
+
 <img src="images/table_results.PNG" width="50%"/>  
+
+### Our paper
+You can find your paper [here](https://ieeexplore.ieee.org/document/9991756)
+
+### Citation
+If you use this work or code, please kindly cite this paper:
+```
+@INPROCEEDINGS{9991756,
+  author={Neto, José and Arrais, Nicksson and Vinuto, Tiago and Lucena, João},
+  booktitle={2022 35th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
+  title={Convolution-Vision Transformer for Automatic Lung Sound Classification}, 
+  year={2022},
+  }
+```
