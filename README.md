@@ -31,7 +31,7 @@ The data includes both clean respiratory sounds as well as noisy recordings that
 <img src="images/table_results.PNG" width="50%"/>  
 
 ### Our paper
-You can find your paper [here](https://ieeexplore.ieee.org/document/9991756)
+You can find our paper [here](https://ieeexplore.ieee.org/document/9991756)
 
 ### Citation
 If you use this work or code, please kindly cite this paper:
