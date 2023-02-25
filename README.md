@@ -8,7 +8,7 @@ These sounds can be recorded using digital stethoscopes and other recording tech
 
 ## Dataset 
 
-Link to oficial repository: https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge
+Link to oficial repository: https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge  
 Link to dataset from Kaggle: https://www.kaggle.com/vbookshelf/respiratory-sound-database
 
 The Respiratory Sound Database was created by two research teams in Portugal and Greece. 
